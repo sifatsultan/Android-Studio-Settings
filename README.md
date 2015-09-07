@@ -10,5 +10,6 @@ It means, custmized by me.
 ### EL Loouve
 It means, not by me but I love it.
 - Open last closed tab [Ctrl+E]
+- Rename [Ctrl + Shift + T ]
 
 
